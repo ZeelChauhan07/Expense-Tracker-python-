@@ -1,20 +1,20 @@
 [
     {
-        "date": "23-04-23",
+        "date": "20-04-2026",
         "category": "food",
-        "description": "burger",
-        "amount": 200.0
-    },
-    {
-        "date": "02-02-2026",
-        "category": "cloths",
-        "description": "maxi dress",
-        "amount": 1800.0
+        "description": "pizza",
+        "amount": 900.0
     },
     {
         "date": "05-08-2028",
         "category": "vehicle",
         "description": "car",
         "amount": 230000.0
+    },
+    {
+        "date": "15-10-2026",
+        "category": "petrol",
+        "description": "-",
+        "amount": 1000.0
     }
 ]
