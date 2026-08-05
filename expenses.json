@@ -1,0 +1,20 @@
+[
+    {
+        "date": "23-04-23",
+        "category": "food",
+        "description": "burger",
+        "amount": 200.0
+    },
+    {
+        "date": "02-02-2026",
+        "category": "cloths",
+        "description": "maxi dress",
+        "amount": 1800.0
+    },
+    {
+        "date": "05-08-2028",
+        "category": "vehicle",
+        "description": "car",
+        "amount": 230000.0
+    }
+]
