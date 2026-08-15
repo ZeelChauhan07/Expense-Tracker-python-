@@ -1,20 +1,50 @@
 [
     {
-        "date": "20-04-2026",
+        "date": "01-07-2026",
+        "Type": "income",
+        "category": "others",
+        "description": "pocket money",
+        "amount": 1100.0,
+        "Payment Mode": "upi"
+    },
+    {
+        "date": "03-07-2026",
+        "Type": "expense",
+        "category": "groceries",
+        "description": "vegetables",
+        "amount": 500.0,
+        "Payment Mode": "cash"
+    },
+    {
+        "date": "05-07-2026",
+        "Type": "expense",
+        "category": "bills",
+        "description": "electricity",
+        "amount": 23000.0,
+        "Payment Mode": "upi"
+    },
+    {
+        "date": "10-07-2026",
+        "Type": "expense",
+        "category": "shopping",
+        "description": "festive ",
+        "amount": 6000.0,
+        "Payment Mode": "cash"
+    },
+    {
+        "date": "15-07-2026",
+        "Type": "expense",
         "category": "food",
-        "description": "pizza",
-        "amount": 900.0
+        "description": "frankie",
+        "amount": 150.0,
+        "Payment Mode": "upi"
     },
     {
-        "date": "05-08-2028",
-        "category": "vehicle",
-        "description": "car",
-        "amount": 230000.0
-    },
-    {
-        "date": "15-10-2026",
-        "category": "petrol",
-        "description": "-",
-        "amount": 1000.0
+        "date": "01-07-2026",
+        "Type": "income",
+        "category": "salary",
+        "description": "job",
+        "amount": 100000.0,
+        "Payment Mode": "upi"
     }
 ]

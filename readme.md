@@ -11,7 +11,22 @@ Expense Tracker is a simple command-line application built using Python that hel
 * Update existing expense records by replacing the selected data with new details
 * Delete expense entries
 * Store data using file handling
-* Generate expense summaries
+* Summary Reports - Generate monthly summary reports and category-wise expense breakdowns
+* Budget Manager - Set, view, update, and manage category-wise monthly budgets with budget tracking
+
+### Summary Reports
+The Summary Reports feature provides:
+- Monthly summary showing total income, total expenses, and net balance
+- Category-wise expense breakdown (Food, Travel, Bills, Shopping, Groceries, Other)
+- Quick financial overview for better expense management
+
+### Budget Manager
+The Budget Manager feature allows you to:
+- Set monthly budgets for different expense categories
+- View current budget status against actual spending
+- Update individual category budgets
+- Delete budget categories as needed
+- Track spending against your set budgets
 
 ## Tech Stack
 
@@ -25,6 +40,7 @@ Expense Tracker is a simple command-line application built using Python that hel
 Expense-Tracker/
 │── ExpenseTracker.py
 │── expenses.json
+│── budgets.json
 │── README.md
 
 ## How to Run
@@ -36,11 +52,12 @@ Expense-Tracker/
 4. Follow the on-screen menu to manage your expenses.
 5. The menu supports the following actions:
    1. Add Expense
-   2. View Expenses
-   3. Update Expense
-   4. Delete Expense
-   5. View all details
-   6. Exit
+   2. View Transactions
+   3. Update Transaction
+   4. Delete Transaction
+   5. Summary Reports
+   6. Budget Manager
+   7. Exit
 
 ## Learning Outcomes
 
@@ -52,10 +69,10 @@ Expense-Tracker/
 ## Future Improvements
 
 * Add a graphical user interface (GUI).
-* Include monthly and yearly expense analytics.
-* Add expense categories and filtering.
+* Add expense categories and filtering by date ranges.
 * Export reports to CSV or Excel.
 * Store data using SQLite or a database.
+* Add notifications for budget limits.
 
 
 ## Author
